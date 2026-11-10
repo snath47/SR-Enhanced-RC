@@ -1,0 +1,7 @@
+*.npy
+*.npz
+hh_noise_sigma*_*realizations/
+logs/
+__pycache__/
+*.out
+*.err
